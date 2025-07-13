@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit of Gmail-Agent Streamlit app"
+git branch -M main
+git remote add origin https://github.com/Reza202507/Gmail-Agent.git
+git push -u origin main
